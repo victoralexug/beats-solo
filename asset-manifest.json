@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/beats-solo/static/css/main.c108ae23.css",
-    "main.js": "/beats-solo/static/js/main.f7b749a5.js",
+    "main.css": "/beats-solo/static/css/main.6d0c58c1.css",
+    "main.js": "/beats-solo/static/js/main.560bd242.js",
     "index.html": "/beats-solo/index.html",
-    "main.c108ae23.css.map": "/beats-solo/static/css/main.c108ae23.css.map",
-    "main.f7b749a5.js.map": "/beats-solo/static/js/main.f7b749a5.js.map"
+    "main.6d0c58c1.css.map": "/beats-solo/static/css/main.6d0c58c1.css.map",
+    "main.560bd242.js.map": "/beats-solo/static/js/main.560bd242.js.map"
   },
   "entrypoints": [
-    "static/css/main.c108ae23.css",
-    "static/js/main.f7b749a5.js"
+    "static/css/main.6d0c58c1.css",
+    "static/js/main.560bd242.js"
   ]
 }
