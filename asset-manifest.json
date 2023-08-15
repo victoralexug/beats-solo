@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/beats-solo/static/css/main.c108ae23.css",
+    "main.js": "/beats-solo/static/js/main.f7b749a5.js",
+    "index.html": "/beats-solo/index.html",
+    "main.c108ae23.css.map": "/beats-solo/static/css/main.c108ae23.css.map",
+    "main.f7b749a5.js.map": "/beats-solo/static/js/main.f7b749a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c108ae23.css",
+    "static/js/main.f7b749a5.js"
+  ]
+}
